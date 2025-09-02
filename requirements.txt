@@ -1,5 +1,4 @@
 streamlit
-pandas
-numpy
-matplotlib
-plotly
+ultralytics
+opencv-python
+Pillow
